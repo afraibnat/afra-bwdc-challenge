@@ -1,9 +1,9 @@
 {
-  "name": "afra-final-project",
+  "name": "afra-bwdc-challenge",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://afraibnat.github.io/afra-final-project",
+  "homepage": "https://afraibnat.github.io/afra-bwdc-challenge",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
